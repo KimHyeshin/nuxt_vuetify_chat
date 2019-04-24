@@ -30,6 +30,7 @@
     ```
     npm install socket.io --save
     ```
-8. server : add sending and getting data module 
+8. server : socket.io를 사용하여 데이터 주고 받는 모듈 추가  
+    참고 : [Sending and getting data (acknowledgements)](https://socket.io/docs/#Sending-and-getting-data-acknowledgements)
 
 
