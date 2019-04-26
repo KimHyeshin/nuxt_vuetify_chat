@@ -35,3 +35,4 @@
 
 ## All Chat
 1. client : Add all chat page 
+2. client : all chat socket 연동 코드 작성
