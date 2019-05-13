@@ -46,6 +46,7 @@
 4. 결과 확인
 ![all chat](./img/chat_all.PNG)
 
+<br>
 
 ## Refactoring History
 1. socket.io-client를 page에서 직접 import하지 않고 plugin으로 분리
