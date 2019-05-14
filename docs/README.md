@@ -50,3 +50,4 @@
 
 ## Refactoring History
 1. socket.io-client를 page에서 직접 import하지 않고 plugin으로 분리
+2. 시나리오별 error 처리(이미 로그인된 경우 등..)
