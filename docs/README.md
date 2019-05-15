@@ -2,6 +2,7 @@
 프로젝트 진행 내용
 - [Single Chat](#single-chat)
 - [All Chat](#all-chat)
+- [Group Chat](#group-chat)
 
 ## Single Chat
 1. client : PowerShell에서 npx 명령어로 프로젝트 구성  
@@ -51,3 +52,7 @@
 ## Refactoring History
 1. socket.io-client를 page에서 직접 import하지 않고 plugin으로 분리
 2. 시나리오별 error 처리(이미 로그인된 경우 등..)
+
+
+## Group Chat
+1. client : Add group chat page
